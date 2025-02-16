@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Nagano</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h2>@Model.Message</h2>
+</div>
+
+<h1>ユーザー入力フォーム</h1>
+<form method="post">
+    <label for="username">username : </label>
+    <input type="text" id="username" name="username">
+    <button type="submit">送信</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ResultMessage))
+{
+    <p><strong>結果: </strong></p> @Model.ResultMessage</p>
+}

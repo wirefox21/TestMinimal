@@ -1,0 +1,14 @@
+/Users/wirefox21/MyfirstApp/bin/Debug/net9.0/MyfirstApp
+/Users/wirefox21/MyfirstApp/bin/Debug/net9.0/MyfirstApp.deps.json
+/Users/wirefox21/MyfirstApp/bin/Debug/net9.0/MyfirstApp.runtimeconfig.json
+/Users/wirefox21/MyfirstApp/bin/Debug/net9.0/MyfirstApp.dll
+/Users/wirefox21/MyfirstApp/bin/Debug/net9.0/MyfirstApp.pdb
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/MyfirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/MyfirstApp.AssemblyInfoInputs.cache
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/MyfirstApp.AssemblyInfo.cs
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/MyfirstApp.csproj.CoreCompileInputs.cache
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/MyfirstApp.dll
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/refint/MyfirstApp.dll
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/MyfirstApp.pdb
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/MyfirstApp.genruntimeconfig.cache
+/Users/wirefox21/MyfirstApp/obj/Debug/net9.0/ref/MyfirstApp.dll
